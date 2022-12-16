@@ -1,0 +1,16 @@
+ 
+ .text{
+text-align: center;
+ }
+
+ #map{
+ height: 300px;
+ width: 50%;
+ margin-left: 25%;
+ }
+
+
+ body{
+ background-color: rgb(197, 234, 235);
+
+}
